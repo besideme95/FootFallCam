@@ -1,0 +1,7 @@
+FootFallCam-Assessment-Env/
+extracted_file/
+__pycache__/
+runs/
+extracted_frames/
+.cache/
+Models
